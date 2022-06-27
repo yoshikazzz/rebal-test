@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rebal-test/static/css/main.f30d41eb.css",
+    "main.js": "/rebal-test/static/js/main.e77c0999.js",
+    "static/js/787.59e5f7e8.chunk.js": "/rebal-test/static/js/787.59e5f7e8.chunk.js",
+    "index.html": "/rebal-test/index.html",
+    "main.f30d41eb.css.map": "/rebal-test/static/css/main.f30d41eb.css.map",
+    "main.e77c0999.js.map": "/rebal-test/static/js/main.e77c0999.js.map",
+    "787.59e5f7e8.chunk.js.map": "/rebal-test/static/js/787.59e5f7e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f30d41eb.css",
+    "static/js/main.e77c0999.js"
+  ]
+}
